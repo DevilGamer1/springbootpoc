@@ -1,0 +1,10 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  main:
+    allow-bean-definition-overriding: true
+    allow-circular-references: true
+server:
+  port: 9000
+
